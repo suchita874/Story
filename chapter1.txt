@@ -1,0 +1,6 @@
+on windows
+
+Create file type nul > filename.txt
+
+check directory dir 
+This is our first chapter created
